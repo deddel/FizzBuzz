@@ -5,7 +5,7 @@
 
 //Outputs integers from 1 to N in order, each on its own line, replacing the
 //ones divisible by X with Fizz, the ones divisible by Y with Buzz and ones
-//divisible by both X and Y with FizzBuzz.
+//divisible by both X and Y with FizzBuzz..
 
 namespace FizzBuzz
 {
